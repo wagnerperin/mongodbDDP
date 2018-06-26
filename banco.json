@@ -1,0 +1,231 @@
+[
+    {
+         nome: "Pelé",
+         nacionalidade: "Brasil",
+         situacao: "Aposentado",
+         posicao: "Atacante",
+         times:[
+              {
+                 nome: "Seleção",
+                 pais: "Brasil",
+                 jogos: 92,
+                 gols: 77
+              }, {
+                 nome: "Santos",
+                 pais: "Brasil",
+                 jogos: 669,
+                 gols: 648
+              },{
+                 nome: "New York Cosmos",
+                 pais: "EUA",
+                 jogos: 64,
+                 gols: 37
+              }
+
+          ]
+     },{
+         nome: "Maradona",
+         nacionalidade: "Argentina",
+         situacao: "Aposentado",
+         posicao: "Meio-Campo",
+         times:[
+              {
+                 nome: "Seleção",
+                 pais: "Argentina",
+                 jogos: 91,
+                 gols: 34
+              }, {
+                 nome: "Argentinos Juniors",
+                 pais: "Argentina",
+                 jogos: 166,
+                 gols: 116
+              },{
+                 nome: "Barcelona",
+                 pais: "Espanha",
+                 jogos: 58,
+                 gols: 38
+              },{
+                 nome: "Napoli",
+                 pais: "Itália",
+                 jogos: 259,
+                 gols: 115
+              },{
+                 nome: "Sevilla",
+                 pais: "Espanha",
+                 jogos: 29,
+                 gols: 8
+              },{
+                 nome: "Newell's Old Boys",
+                 pais: "Argentina",
+                 jogos: 5,
+                 gols: 0
+              },{
+                 nome: "Boca Juniors",
+                 pais: "Argentina",
+                 jogos: 71,
+                 gols: 35
+              }
+
+          ]
+     },{
+         nome: "Hristo Stoichkov",
+         nacionalidade: "Bulgária",
+         situacao: "Aposentado",
+         posicao: "Atacante",
+         times:[
+              {
+                 nome: "Seleção",
+                 pais: "Bulgária",
+                 jogos: 84,
+                 gols: 38
+              }, {
+                 nome: "FC Hebros",
+                 pais: "Bulgária",
+                 jogos: 32,
+                 gols: 14
+              },{
+                 nome: "Parma",
+                 pais: "Itália",
+                 jogos: 31,
+                 gols: 7
+              },{
+                 nome: "Barcelona",
+                 pais: "Espanha",
+                 jogos: 255,
+                 gols: 118
+              },{
+                 nome: "CSKA Sofia",
+                 pais: "Bulgária",
+                 jogos: 176,
+                 gols: 113
+              },{
+                 nome: "Al Nassr",
+                 pais: "Arábia Saudita",
+                 jogos: 2,
+                 gols: 1
+              },{
+                 nome: "Kashiwa Reysol",
+                 pais: "Japão",
+                 jogos: 29,
+                 gols: 13
+              },{
+                 nome: "Chicago Fire",
+                 pais: "EUA",
+                 jogos: 57,
+                 gols: 20
+              },{
+                 nome: "DC United",
+                 pais: "EUA",
+                 jogos: 24,
+                 gols: 6
+              }
+
+          ]
+     },{
+         nome: "Fábio",
+         nacionalidade: "Brasil",
+         situacao: "Ativo",
+         posicao: "Goleiro",
+         estatisticas: {
+              jogos: 493,
+              sem_gols: 147,
+              gols_sofridos: 601
+         }
+     },{
+         nome: "Rogério Ceni",
+         nacionalidade: "Brasil",
+         situacao: "Aposentado",
+         posicao: "Goleiro",
+         estatisticas: {
+              jogos: 428,
+              sem_gols: 146,
+              gols_sofridos: 464
+         }
+     },{
+         nome: "Victor",
+         nacionalidade: "Brasil",
+         situacao: "Ativo",
+         posicao: "Goleiro",
+         estatisticas: {
+              jogos: 316,
+              sem_gols: 103,
+              gols_sofridos: 358
+         }
+     },{
+         nome: "Vanderlei",
+         nacionalidade: "Brasil",
+         situacao: "Ativo",
+         posicao: "Goleiro",
+         estatisticas: {
+              jogos: 263,
+              sem_gols: 90,
+              gols_sofridos: 301
+         }
+     },{
+         nome: "Cássio",
+         nacionalidade: "Brasil",
+         situacao: "Ativo",
+         posicao: "Goleiro",
+         estatisticas: {
+              jogos: 173,
+              sem_gols: 74,
+              gols_sofridos: 145
+         }
+     },{
+         nome: "Luis Suárez",
+         nacionalidade: "Espanha",
+         situacao: "Aposentado",
+         posicao: "Meio-Campo",
+         times:[
+              {
+                 nome: "Seleção",
+                 pais: "Espanha",
+                 jogos: 32,
+                 gols: 14
+              }, {
+                 nome: "Deportivo",
+                 pais: "Espanha",
+                 jogos: 17,
+                 gols: 3
+              },{
+                 nome: "Barcelona",
+                 pais: "Espanha",
+                 jogos: 175,
+                 gols: 82
+              },{
+                 nome: "Internazionale",
+                 pais: "Itália",
+                 jogos: 323,
+                 gols: 52
+              },{
+                 nome: "Sampdoria",
+                 pais: "Itália",
+                 jogos: 73,
+                 gols: 14
+              }
+          ]
+     },{
+         nome: "Marco van Basten",
+         nacionalidade: "Holanda",
+         situacao: "Aposentado",
+         posicao: "Atacante",
+         times:[
+              {
+                 nome: "Seleção",
+                 pais: "Holanda",
+                 jogos: 58,
+                 gols: 24
+              }, {
+                 nome: "Ajax",
+                 pais: "Holanda",
+                 jogos: 174,
+                 gols: 154
+              },{
+                 nome: "Milan",
+                 pais: "Itália",
+                 jogos: 206,
+                 gols: 128
+              }
+          ]
+     }
+]
