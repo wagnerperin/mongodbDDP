@@ -1,0 +1,78 @@
+[
+  {
+    "nome": "SEAD",
+    "chefias":[
+      {
+        "nome": "Maria José",
+        "funcao": "Secretária"
+      },{
+        "nome": "Júlio Francelino",
+        "funcao": "Diretor Acadêmico"
+      },{
+        "nome": "Luiz Otávio",
+        "funcao": "Diretor de TI"
+      }
+    ],
+    "subsetores": [
+      {
+        "nome": "recepção",
+        "ramal": 2208,
+        "prestadores": 1
+      },{
+        "nome": "administração",
+        "ramal": 2091,
+        "prestadores": 2,
+        "servidores": 7
+      },{
+        "nome": "secretaria",
+        "ramal": 2064,
+        "prestadores": 5,
+        "servidores": 5
+      },{
+        "nome": "webconf",
+        "ramal": 2062,
+        "prestadores": 1,
+        "servidores": 3
+      },{
+        "nome": "TI",
+        "ramal": 2061,
+        "servidores": 5
+      }
+    ]
+  },{
+    "nome": "PROGEP",
+    "subsetores": [
+      {
+        "nome": "administração",
+        "ramal": 7849,
+        "prestadores": 3,
+        "servidores": 5,
+        "divisoes": 5
+      },{
+        "nome": "DAS",
+        "ramal": 2345,
+        "prestadores": 5,
+        "servidores": 9,
+        "divisoes": 6
+      },{
+        "nome": "DDP",
+        "ramal": 2233,
+        "prestadores": 5,
+        "servidores": 11,
+        "divisoes": 5
+      },{
+        "nome": "DGP",
+        "ramal": 2260,
+        "prestadores": 10,
+        "servidores": 16,
+        "divisoes": 10
+      },{
+        "nome": "DGR",
+        "ramal": 2360,
+        "prestadores": 32,
+        "servidores": 22,
+        "divisoes": 10
+      }
+    ]
+  }
+]
